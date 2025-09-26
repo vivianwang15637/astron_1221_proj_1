@@ -1,10 +1,6 @@
 # MatPlotLib: plotting function for LLM-selected destinations
 
 
-import matplotlib.pyplot as plt
-import numpy as np
-
-
 def plot_selected_destinations(selected_destinations, user_goals):
    """Simple plots for the 3 destinations LLM chose"""
   
