@@ -1,0 +1,22 @@
+
+=== Jupiter Space Tour ===
+Travel to Jupiter	 Base Cost: $620.0	Distance:6.2 AU
+Gas giant known for its colorful, swirling cloud bands and the Great Red Spot
+
+Activity 1: Europa Ice Palace Suite
+
+Cost: $250.0
+Stay in a luxurious crystalline hotel carved into Europa's pristine ice surface, featuring panoramic views of Jupiter's swirling storms through reinforced transparent aluminum windows, complete with zero-gravity spa treatments and gourmet molecular gastronomy dining.
+
+Activity 2: Great Red Spot Storm Chasing
+
+Cost: $200.0
+Experience the ultimate thrill aboard a premium atmospheric yacht that safely navigates the edges of Jupiter's iconic Great Red Spot, offering champagne service while witnessing the massive storm system up close through reinforced observation decks.
+
+Activity 3: Io Volcanic Light Show VIP Experience
+
+Cost: $170.0
+Enjoy an exclusive front-row seat to Io's spectacular volcanic eruptions from a luxury orbital platform, complete with personal concierge service, premium refreshments, and professional photography to capture the otherworldly sulfur plumes against Jupiter
+--------------------------------------------------------------------------------------------------
+
+Total Costs: $1240.0
