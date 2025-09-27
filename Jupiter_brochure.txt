@@ -3,20 +3,20 @@
 Travel to Jupiter Base Cost: $620.0	Distance:6.2 AU
 Gas giant known for its colorful, swirling cloud bands and the Great Red Spot
 
-Activity 1: Great Red Spot Storm Viewing Safari
+Activity 1: Jovian Aurora Spa Experience
 
 Cost: $180.0
-Take a thrilling family ride aboard a specially shielded observation pod that safely navigates the outer edges of Jupiter's famous Great Red Spot. Watch the massive storm swirl beneath you while learning about the planet's incredible weather patterns from expert guides.
+Relax in a luxury orbital spa pod positioned to witness Jupiter's spectacular auroras while enjoying zero-gravity massages and champagne. The ethereal light show creates the perfect ambiance for ultimate relaxation and Instagram-worthy photos with your girls.
 
-Activity 2: Europa Ice Moon Skating Adventure
-
-Cost: $220.0
-Glide across the frozen surface of Jupiter's moon Europa on specially designed low-gravity ice skates while marveling at the subsurface ocean beneath your feet. The whole family can enjoy this unique skating experience under Jupiter's magnificent backdrop, with all equipment and safety gear included.
-
-Activity 3: Io Volcanic Geyser Light Show
+Activity 2: Europa Ice Moon Shopping Excursion
 
 Cost: $220.0
-Experience a spectacular natural fireworks display as you safely observe the active volcanic geysers of Jupiter's moon Io from a comfortable viewing platform. This family-friendly tour includes hot cocoa and educational materials about the most volcanically active body in our solar system.
+Take a glamorous shuttle to Jupiter's moon Europa for an exclusive boutique shopping experience in climate-controlled ice caverns featuring designer space fashion and rare Jovian crystals. Browse luxury goods while sipping cosmic cocktails in this one-of-a-kind frozen wonderland mall.
+
+Activity 3: Great Red Spot Storm-Watching Brunch
+
+Cost: $220.0
+Dine on gourmet space cuisine while safely observing Jupiter's iconic Great Red Spot storm from a premium viewing deck aboard a luxury cruiser. Toast with mimosas as you witness the solar system's most famous weather phenomenon in style with your best friends.
 --------------------------------------------------------------------------------------------------
 
 Total Costs: $1240.0
