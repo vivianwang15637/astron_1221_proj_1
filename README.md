@@ -1,5 +1,5 @@
-# astron_1221_proj_1
-***Project 11: Space Travel Brochure Generator**
+**astron_1221_proj_1**
+#**Project 11: Space Travel Brochure Generator**
 
 - This repository contains the Python project for creating custom vacation brochures for three selected destinations across the Universe. The project combines Object-Oriented Programming (OOP), hardcoded astronomical data, and Large Language Model (LLM) API calls to generate unique, imaginative tour packages based on user-defined goals.
 
