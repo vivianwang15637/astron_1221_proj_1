@@ -1,4 +1,4 @@
-#astron_1221_proj_1
+astron_1221_proj_1
 ---
 **Project 11: Space Travel Brochure Generator**
 ---
