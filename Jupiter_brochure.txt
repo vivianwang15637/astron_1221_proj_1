@@ -1,0 +1,22 @@
+
+=== Jupiter Space Tour ===
+Travel to Jupiter Base Cost: $620.0	Distance:6.2 AU
+Gas giant known for its colorful, swirling cloud bands and the Great Red Spot
+
+Activity 1: Jovian Aurora Ballet Experience
+
+Cost: $485.0
+Float in a luxury observation pod through Jupiter's mesmerizing aurora displays while professional dancers perform synchronized routines in zero gravity around you. Champagne and cosmic caviar included.
+
+Activity 2: Great Red Spot Storm Surfing
+
+Cost: $750.0
+Ride the edge of Jupiter's legendary storm in a diamond-hulled luxury craft with personal butler service. Experience the raw power of centuries-old winds from complete safety and comfort.
+
+Activity 3: Europa Ice Palace Retreat
+
+Cost: $920.0
+Stay in an exclusive crystalline hotel carved from Europa's pristine ice, complete with heated infinity pools overlooking Jupiter's swirling clouds and a private chef specializing in molecular gastronomy.
+--------------------------------------------------------------------------------------------------
+Total Costs (Travel + Activities): $2775.0
+Cost Efficiency (Total Cost per AU): $447.58

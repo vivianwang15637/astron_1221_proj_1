@@ -1,0 +1,22 @@
+
+=== Uranus Space Tour ===
+Travel to Uranus Base Cost: $2010.0	Distance:20.1 AU
+Cold, blue-green, ice giant
+
+Activity 1: Diamond Rain Observatory Experience
+
+Cost: $850.0
+Witness Uranus's legendary diamond precipitation from a luxury crystalline viewing pod while sipping champagne. Professional gemologists explain the formation process as sparkling diamonds cascade through the methane clouds below.
+
+Activity 2: Sideways Orbital Ballet Performance
+
+Cost: $1200.0
+Experience an exclusive zero-gravity ballet performed by renowned dancers as Uranus rotates on its unique sideways axis. VIP seating in a heated observation deck with gourmet molecular gastronomy service.
+
+Activity 3: Ice Moon Glacier Skiing Adventure
+
+Cost: $675.0
+Glide across the pristine frozen surfaces of Miranda's dramatic ice cliffs using specially-designed low-gravity skis. Includes luxury heated shelter with panoramic views and professional ice-terrain guides.
+--------------------------------------------------------------------------------------------------
+Total Costs (Travel + Activities): $4735.0
+Cost Efficiency (Total Cost per AU): $235.57

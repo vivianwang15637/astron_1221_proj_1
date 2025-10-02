@@ -1,0 +1,22 @@
+
+=== Mars Space Tour ===
+Travel to Mars Base Cost: $250.0	Distance:2.5 AU
+Desert-like rocky planet with a tenuous atmosphere.
+
+Activity 1: Martian Aurora Glamping Experience
+
+Cost: $425.0
+Sleep under the ethereal green and blue auroras in luxury biodome tents with heated floors, gourmet meal service, and panoramic crater views perfect for family bonding.
+
+Activity 2: Red Planet Safari Adventure
+
+Cost: $380.5
+Explore ancient riverbeds and towering canyons in pressurized luxury rovers while spotting geological wonders, with comfortable overnight camps featuring Earth-style amenities.
+
+Activity 3: Olympus Mons Base Camp Retreat
+
+Cost: $495.0
+Set up premium family camping at the base of the solar system's largest volcano, complete with guided hikes, stargazing decks, and cozy habitat modules with all modern conveniences.
+--------------------------------------------------------------------------------------------------
+Total Costs (Travel + Activities): $1550.5
+Cost Efficiency (Total Cost per AU): $620.2

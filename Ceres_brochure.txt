@@ -1,0 +1,22 @@
+
+=== Ceres Space Tour ===
+Travel to Ceres Base Cost: $310.0	Distance:3.1 AU
+Dwarf planet known for its high water ice content,
+
+Activity 1: Asteroid Belt Campfire Stories
+
+Cost: $45.0
+Gather around a holographic campfire in Ceres' low gravity while sharing tales of space exploration. Kids can roast synthetic marshmallows that float and glow in the dark.
+
+Activity 2: Ice Volcano Hiking Adventure
+
+Cost: $75.5
+Trek across Ceres' surface to witness active cryovolcanoes spewing water vapor into space. Family-friendly guided tours include safety suits and gravity boots for easy walking.
+
+Activity 3: Underground Ice Cave Camping
+
+Cost: $120.0
+Sleep in cozy thermal pods within Ceres' natural ice caverns, where families can watch sublimating ice crystals create magical light shows on the cave walls.
+--------------------------------------------------------------------------------------------------
+Total Costs (Travel + Activities): $550.5
+Cost Efficiency (Total Cost per AU): $177.58
